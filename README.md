@@ -1,1 +1,1 @@
-# Snapchat-Lenses
+# Snapchat Lenses
